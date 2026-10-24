@@ -1,7 +1,7 @@
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:shopping_cart_app/models/product_model.dart';
-import 'package:shopping_cart_app/providers/cart_provider.dart';
+import 'package:shopping_cart_app/features/products/domain/models/product_model.dart';
+import 'package:shopping_cart_app/features/products/presentation/providers/cart_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
